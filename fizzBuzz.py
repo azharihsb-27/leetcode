@@ -22,7 +22,7 @@
 # Constraints:
 # 1 <= n <= 104
 
-# Solution
+# Solution:
 class Solution:
   def fizzBuzz(self, n: int) -> List[str]:
     answer = []

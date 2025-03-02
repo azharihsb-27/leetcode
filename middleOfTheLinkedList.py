@@ -24,7 +24,7 @@
 #         self.val = val
 #         self.next = next
 
-# Solution
+# Solution:
 class Solution:
   def middleNode(self, head: Optional[ListNode]) -> Optional[ListNode]:
     slow = fast = head

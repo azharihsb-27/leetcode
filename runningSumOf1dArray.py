@@ -22,7 +22,7 @@
 # 1 <= nums.length <= 1000
 # -10^6 <= nums[i] <= 10^6
 
-# Solution
+# Solution:
 class Solution:
   def runningSum(self, nums: List[int]) -> List[int]:
     for i in range(len(nums)-1):

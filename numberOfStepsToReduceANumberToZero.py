@@ -31,7 +31,7 @@
 # Constraints:
 # 0 <= num <= 106
 
-# Solution
+# Solution:
 class Solution:
   def numberOfSteps(self, num: int) -> int:
     steps = 0
